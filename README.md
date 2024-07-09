@@ -37,6 +37,19 @@ and your network can be trained and the tested data will be listed in your speci
 
 We are sorry, but due to our business agreement with our partners, we are unable to provide the data. Please prepare the data yourself for training the network.
 
+## Cite Our Work
+@inproceedings{duan20233d,
+  title={3D Dental Mesh Segmentation Using Semantics-Based Feature Learning with Graph-Transformer},
+  author={Duan, Fan and Chen, Li},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={456--465},
+  year={2023},
+  organization={Springer}
+}
+
+## Contact Us
+Please contact us at duanfanzm@163.com for any questions.
+
 
 
 
