@@ -1,5 +1,8 @@
 # 3D-Dental-Mesh-Segmentation-Using-Semantics-Based-Feature-Learning-with-Graph-Transformer
+
 Codes for MICCAI 2023 paper: 3D Dental Mesh Segmentation Using Semantics-Based Feature Learning with Graph-Transformer
+
+Paper Link: https://link.springer.com/chapter/10.1007/978-3-031-43990-2_43
 
 ## Time to Open our code
 
